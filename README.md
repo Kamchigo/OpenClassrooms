@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="130"/>
+  <img src="https://miro.medium.com/max/1400/1*a-HMfeg5w-W02Nrw21iPtg.gif" width="130"/>
 </div>
 
 <div id="badges" align="center">
