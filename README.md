@@ -13,9 +13,13 @@
 </div>
 
 <h2 align="center">
-  Hello, dear visitor.
+  Hello, dear visitor. 
 </h2>
 
-<h2 align="left">
+<h2 align="center">
   Welcome to my GitHub page ! 
 </h2>
+
+</div align ="center">
+You will find here all the projects I realized during my Data Analyst training as part of the OpenClassrooms program.
+</div>
