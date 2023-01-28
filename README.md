@@ -11,3 +11,12 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=kamchigo&style=flat-square&color=blue" alt="" width="80"/>
 </div>
+
+<h2 align="center">
+  Hello !
+  <img src="https://media.tenor.com/JwhdKsPXBecAAAAM/load-loading.gif" width="20px"/>
+</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/a8E3O2Fr2yuRRpYsq1/giphy.gif" width="400"/>
+</div>
