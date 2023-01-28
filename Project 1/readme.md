@@ -13,7 +13,7 @@ This project is the first of the OpenClassrooms Data Analyst training.
 - Microsoft Excel 
 - Microsoft PowerPoint
 
-### Scénario
+## Scenario
 
 With your diploma in hand, you have been working as a Data Analyst in the Marketing department of Le Grand Marché, a large-scale distribution company in several sectors (food, consumer goods and high tech) for one year now. 
 The company manages a warehouse and delivers orders placed by customers on its website to their homes.
