@@ -23,6 +23,11 @@ Today, as at the beginning of every month, you have planned to work on the month
 - prepare the presentation of the general key figures from the already generated graphs;
 - prepare the report of specific data for affiliate clients in Excel from the data directly.
 
+## Deliverables
+
+- A spreadsheet format report for affiliate clients data
+- A PowerPoint presentation (converted to PDF) for the monthly marketing report.
+
 ## Version
 
 - v1.0 : Initial release
