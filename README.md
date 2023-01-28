@@ -13,13 +13,23 @@
 </div>
 
 <h2 align="center">
-  Hello, dear visitor. 
+  Dear visitor, 
 </h2>
 
 <h2 align="center">
   Welcome to my GitHub page ! 
-</h2>
+  </h2>
 
-</div align ="center">
+
 You will find here all the projects I realized during my Data Analyst training as part of the OpenClassrooms program.
-</div>
+I'm currently working on adding more personal projects to this page.
+
+<h2 align="center">
+  Enjoy ! 
+  </h2>
+
+To reach me :
+<ul>
+  <li> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> : https://www.linkedin.com/in/kamel-badar-4649b3195/</li>
+  <li> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" width="20"/> : <a href="mailto:kamelbadar18@gmail.com">kamelbadar18@gmail.com</a> </li>
+</ul>
