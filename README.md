@@ -15,7 +15,3 @@
 <h2 align="center">
   Hello !
 </h2>
-
-<div align="center">
-  <img src="https://media.tenor.com/JwhdKsPXBecAAAAM/load-loading.gif" width="400"/>
-</div>
