@@ -13,5 +13,9 @@
 </div>
 
 <h2 align="center">
-  Hello !
+  Hello, dear visitor.
+</h2>
+
+<h2 align="left">
+  Welcome to my GitHub page ! 
 </h2>
