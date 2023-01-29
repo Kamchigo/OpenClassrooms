@@ -13,23 +13,38 @@
 </div>
 
 <h2 align="center">
-  Dear visitor, 
-</h2>
-
-<h2 align="center">
-  Welcome to my GitHub page ! 
+  OpenClassrooms Data Analyst Training
   </h2>
 
-
-You will find here all the projects I realized during my Data Analyst training as part of the OpenClassrooms program.
-I'm currently working on adding more personal projects to this page.
-
 <h2 align="center">
-  Enjoy ! 
+ Training Presentation
   </h2>
 
-To reach me :
-<ul>
-  <li> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> : https://www.linkedin.com/in/kamel-badar-4649b3195/</li>
-  <li> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" width="20"/> : <a href="mailto:kamelbadar18@gmail.com">kamelbadar18@gmail.com</a> </li>
-</ul>
+This training is a Data Analyst professional certification offered by [OpenClassrooms](https://openclassrooms.com/fr/), France's leading online training organization, in collaboration with the [ENSAE-ENSAI](https://www.lecepe.fr/) statistics school based in Paris. 
+
+9 projects carried out, simulating real professionals problems will be presented:
+- Sales analysis for an e-commerce
+- Creation and use of a real estate database
+- Realization of an international health study
+- Optimize the management and analyze the sales of a shop
+- Analyze the sales of a bookstore
+- Analyze the F/M mix at work
+- Study on drinking water internationally
+- International market research
+- Creation of an automated counterfeit detection program
+
+<h2 align="center">
+ Tools, Softwares, and Programming Languages
+  </h2>
+  
+  During the program, several tools, softwares, and programming languages have been used: 
+  - Microsoft PowerPoint : creating reports and presentation supports
+  - Microsoft Excel : Advanced Excel functions, Pivot tables, Visualization...
+  - PowerQuery ETL : Loading, joining, and transforming data from different sources
+  - SQL Power Architect : UML standard
+  - MySQL : creation of a SQL database from scratch, data implementation, advanced querying 
+  - DBeaver : database management
+  - Python : pandas, numpy, matplotlib, seaborn...
+  
+  
+  
