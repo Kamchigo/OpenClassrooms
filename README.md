@@ -23,7 +23,7 @@
 This training is a Data Analyst professional certification offered by [OpenClassrooms](https://openclassrooms.com/fr/), France's leading online training organization, in collaboration with the [ENSAE-ENSAI](https://www.lecepe.fr/) statistics school based in Paris. 
 
 9 projects carried out, simulating real professionals problems will be presented:
-- Sales analysis for an e-commerce
+- [Sales analysis for an e-commerce](https://github.com/Kamchigo/OpenClassrooms/tree/main/Project%201%20:%20Sales%20analysis%20for%20an%20e-commerce)
 - Creation and use of a real estate database
 - Realization of an international health study
 - Optimize the management and analyze the sales of a shop
