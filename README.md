@@ -24,7 +24,7 @@ This training is a Data Analyst professional certification offered by [OpenClass
 
 9 projects carried out, simulating real professionals problems will be presented:
 - [Sales analysis for an e-commerce](https://github.com/Kamchigo/OpenClassrooms/tree/main/Project%201%20:%20Sales%20analysis%20for%20an%20e-commerce)
-- Creation and use of a real estate database
+- [Creation and use of a real estate database](https://github.com/Kamchigo/OpenClassrooms/tree/main/Project%202%20:%20Creation%20and%20use%20of%20a%20real%20estate%20database)
 - Realization of an international health study
 - Optimize the management and analyze the sales of a shop
 - Analyze the sales of a bookstore
@@ -44,7 +44,7 @@ This training is a Data Analyst professional certification offered by [OpenClass
   - SQL Power Architect : UML standard
   - MySQL : creation of a SQL database from scratch, data implementation, advanced querying 
   - DBeaver : database management
-  - Python : pandas, numpy, matplotlib, seaborn...
+  - Python : pandas, numpy, scipy, matplotlib...
   
   
   
