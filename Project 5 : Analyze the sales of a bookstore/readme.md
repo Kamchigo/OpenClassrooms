@@ -1,4 +1,4 @@
-# Project 5 : Analyze the sales of a bookstore
+# Project 5 : Analyze the sales of an online bookstore
 
 This project is the 5th of the OpenClassrooms Data Analyst training. 
  
