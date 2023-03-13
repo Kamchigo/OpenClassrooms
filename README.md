@@ -39,13 +39,14 @@ This training is a Data Analyst professional certification offered by [OpenClass
   
   During the program, several tools, softwares, and programming languages have been used: 
   - Microsoft PowerPoint : creating reports and presentation supports
-  - Microsoft Excel : Advanced Excel functions, Pivot tables, Visualization...
+  - Microsoft Excel : Advanced Excel functions, pivot tables, visualization...
   - PowerQuery ETL : Loading, joining, and transforming data from different sources
   - SQL Power Architect : UML standard
   - MySQL : creation of a SQL database from scratch, data implementation, advanced querying 
   - DBeaver : database management
   - Python : pandas, numpy, scipy, matplotlib...
-  -  Knime Analytics Platform : workflow creation, automation
+  - Knime Analytics Platform : workflow creation, automation
+  - Tableau Software : creating visualizations and dashboards 
   
   
   
