@@ -45,6 +45,7 @@ This training is a Data Analyst professional certification offered by [OpenClass
   - MySQL : creation of a SQL database from scratch, data implementation, advanced querying 
   - DBeaver : database management
   - Python : pandas, numpy, scipy, matplotlib...
+  -  Knime Analytics Platform : workflow creation, automation
   
   
   
