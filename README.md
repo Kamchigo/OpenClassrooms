@@ -44,7 +44,7 @@ This training is a Data Analyst professional certification offered by [OpenClass
   - SQL Power Architect : UML standard
   - MySQL : creation of a SQL database from scratch, data implementation, advanced querying 
   - DBeaver : database management
-  - Python : pandas, numpy, scipy, matplotlib...
+  - Python : pandas, numpy, scipy, matplotlib, scikit-learn...
   - Knime Analytics Platform : workflow creation, automation
   - Tableau Software : creating visualizations and dashboards 
   
