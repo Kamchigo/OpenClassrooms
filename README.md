@@ -30,7 +30,7 @@ This training is a Data Analyst professional certification offered by [OpenClass
 - [Analyze the sales of an online bookstore](https://github.com/Kamchigo/OpenClassrooms/tree/main/Project%205%20:%20Analyze%20the%20sales%20of%20a%20bookstore)
 - [Analyze the F/M mix at work](https://github.com/Kamchigo/OpenClassrooms/tree/main/Project%206%20:%20Analyze%20the%20female%20male%20mix%20at%20work)
 - [Create a visualization tool with Tableau Software](https://github.com/Kamchigo/OpenClassrooms/tree/main/Project%207%20:%20Create%20a%20visualization%20tool%20with%20Tableau%20Software)
-- International market research
+- [International market research](https://github.com/Kamchigo/OpenClassrooms/tree/main/Project%208%20:%20International%20market%20research)
 - Creation of an automated counterfeit detection program
 
 <h2 align="center">
